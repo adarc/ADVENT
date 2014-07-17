@@ -1,0 +1,20 @@
+BELOW ARE SOME VITAL ATTRIBUTES FOR A REAL ESTATE PORTAL WHICH WE OFFER
+
+Portal Management
+Property (Office, houses, apartments etc.) listing Management
+Full Content Management
+Regions Management
+Agents Management
+Data import from CSV for a Agent
+IDX/MLS Integration
+3D Virtual tours
+Robust search & filtering
+Google maps integration & Map search
+Powerful property comparison
+Social media integration
+Email Marketing
+Listing Podcast
+Financial Calculators
+Property saving Cart
+SEO based website design
+APIs integration for getting details of nearby landmarks (schools, restaurants etc.)
